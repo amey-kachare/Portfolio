@@ -39,7 +39,7 @@ const Nav = () => {
         >
           Home
         </NavLink>
-
+          
         <NavLink
           to={"/project"}
           className={({ isActive }) =>
